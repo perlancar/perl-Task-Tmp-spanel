@@ -80,6 +80,8 @@ package Task::Tmp::spanel;
 
 =pkg File::Which
 
+=pkg File::Write::Rotate
+
 =pkg File::chdir
 
 =pkg File::chmod
@@ -138,7 +140,11 @@ package Task::Tmp::spanel;
 
 =pkg Path::Class
 
+=pkg Perinci::Access::Base::Patch::PeriAHS
+
 =pkg Perinci::Access::HTTP::Client
+
+=pkg Perinci::Access::Schemeless::DBI
 
 =pkg Perinci::CmdLine
 
@@ -149,6 +155,8 @@ package Task::Tmp::spanel;
 =pkg Perinci::Exporter
 
 =pkg Perinci::Sub::Util
+
+=pkg Perinci::Sub::Wrapper::Patch::HandlePHPArray
 
 =pkg Proc::ChildError
 
@@ -175,6 +183,8 @@ package Task::Tmp::spanel;
 =pkg URI::Escape
 
 =pkg UUID::Random
+
+=pkg Unix::Passwd::File
 
 =pkg WWW::Mechanize
 
