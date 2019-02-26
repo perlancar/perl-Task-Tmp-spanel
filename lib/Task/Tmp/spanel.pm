@@ -14,6 +14,8 @@ package Task::Tmp::spanel;
 
 =pkg Any::Moose
 
+=pkg App::CreateSelfSignedSSL
+
 =pkg CDB_File
 
 =pkg CHI
