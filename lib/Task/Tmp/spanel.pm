@@ -134,6 +134,8 @@ package Task::Tmp::spanel;
 
 =pkg POSIX
 
+=pkg Parse::IPCommand
+
 =pkg Path::Class
 
 =pkg Perinci::Access::HTTP::Client
