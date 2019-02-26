@@ -8,35 +8,11 @@ package Task::Tmp::spanel;
 
 =pkggroup Included modules
 
-=pkg APR::Table
-
 =pkg Algorithm::Dependency::Ordered
 
 =pkg Algorithm::Dependency::Source::HoA
 
 =pkg Any::Moose
-
-=pkg Apache2::Access
-
-=pkg Apache2::CmdParms
-
-=pkg Apache2::Connection
-
-=pkg Apache2::Const
-
-=pkg Apache2::Directive
-
-=pkg Apache2::Log
-
-=pkg Apache2::Module
-
-=pkg Apache2::RequestIO
-
-=pkg Apache2::RequestRec
-
-=pkg Apache2::RequestUtil
-
-=pkg Apache2::ServerRec
 
 =pkg CDB_File
 
@@ -55,8 +31,6 @@ package Task::Tmp::spanel;
 =pkg Crypt::PasswdMD5
 
 =pkg Cwd
-
-=pkg DBD::mysql
 
 =pkg DBI
 
@@ -177,8 +151,6 @@ package Task::Tmp::spanel;
 =pkg Proc::PID::File
 
 =pkg Quota
-
-=pkg RRDTool::OO
 
 =pkg Regexp::Shellish
 
