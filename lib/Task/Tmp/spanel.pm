@@ -90,6 +90,8 @@ package Task::Tmp::spanel;
 
 =pkg GDBM_File
 
+=pkg Gepok
+
 =pkg Getopt::Long
 
 =pkg IO::CaptureOutput
@@ -103,6 +105,8 @@ package Task::Tmp::spanel;
 =pkg IPC::System::Options
 
 =pkg LWP::UserAgent
+
+=pkg Linux::Mounts
 
 =pkg List::MoreUtils
 
@@ -187,6 +191,8 @@ package Task::Tmp::spanel;
 =pkg Unix::Passwd::File
 
 =pkg WWW::Mechanize
+
+=pkg YAML::Syck
 
 =pkg YAML::XS
 
