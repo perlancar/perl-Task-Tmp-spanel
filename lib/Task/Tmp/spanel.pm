@@ -16,6 +16,8 @@ package Task::Tmp::spanel;
 
 =pkg App::CreateSelfSignedSSL
 
+=pkg App::rimetadb
+
 =pkg CDB_File
 
 =pkg CHI
@@ -65,6 +67,8 @@ package Task::Tmp::spanel;
 =pkg File::Find
 
 =pkg File::Flock
+
+=pkg File::Flock::Retry
 
 =pkg File::Path
 
@@ -179,6 +183,8 @@ package Task::Tmp::spanel;
 =pkg String::ShellQuote
 
 =pkg Sub::Curry
+
+=pkg Tie::Handle::FileWriteRotate
 
 =pkg Time::Local
 
