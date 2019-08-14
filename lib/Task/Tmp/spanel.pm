@@ -156,6 +156,8 @@ package Task::Tmp::spanel;
 
 =pkg Perinci::CmdLine
 
+=pkg Perinci::CmdLine::Any
+
 =pkg Perinci::CmdLine::Lite
 
 =pkg Perinci::CmdLine::Server
@@ -201,6 +203,8 @@ package Task::Tmp::spanel;
 =pkg YAML::Syck
 
 =pkg YAML::XS
+
+=pkg alias::module
 
 =pkg autodie
 
