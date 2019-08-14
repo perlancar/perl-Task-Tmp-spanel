@@ -1,3 +1,9 @@
+0.004   2019-08-14  Released-By: PERLANCAR; Urgency: medium
+
+	- Add modules: App::rimetadb, File::Flock::Retry,
+	  Tie::Handle::FileWriteRotate.
+
+
 0.003   2019-03-01  Released-By: PERLANCAR
 
 	- Updates.
