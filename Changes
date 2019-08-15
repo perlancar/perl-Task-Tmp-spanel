@@ -1,3 +1,9 @@
+0.006   2019-08-15  Released-By: PERLANCAR; Urgency: medium
+
+	- Update module name App::CreateSelfSignedSSL ->
+	  App::CreateSelfSignedSSLCert.
+
+
 0.005   2019-08-15  Released-By: PERLANCAR; Urgency: medium
 
         - Add modules: Perinci::CmdLine::Any, alias::module.
