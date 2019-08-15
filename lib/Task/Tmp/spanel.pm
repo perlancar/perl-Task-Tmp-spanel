@@ -14,7 +14,7 @@ package Task::Tmp::spanel;
 
 =pkg Any::Moose
 
-=pkg App::CreateSelfSignedSSL
+=pkg App::CreateSelfSignedSSLCert
 
 =pkg App::rimetadb
 
