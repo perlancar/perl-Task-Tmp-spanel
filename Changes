@@ -1,3 +1,8 @@
+0.005   2019-08-15  Released-By: PERLANCAR; Urgency: medium
+
+        - Add modules: Perinci::CmdLine::Any, alias::module.
+
+
 0.004   2019-08-14  Released-By: PERLANCAR; Urgency: medium
 
 	- Add modules: App::rimetadb, File::Flock::Retry,
