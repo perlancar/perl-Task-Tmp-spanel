@@ -186,7 +186,7 @@ package Task::Tmp::spanel;
 
 =pkg Sub::Curry
 
-=pkg Sys::RunAlone
+=pkg Sys::RunAlone::Flexible
 
 =pkg Tie::Handle::FileWriteRotate
 
