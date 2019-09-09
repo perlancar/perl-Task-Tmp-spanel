@@ -48,6 +48,10 @@ package Task::Tmp::spanel;
 
 =pkg Data::Sah
 
+=pkg Data::Transmute
+
+=pkg Data::Transmute::Rules::DNS::Zone::Struct::FromSpanel
+
 =pkg Date::Manip
 
 =pkg DateTime
@@ -186,7 +190,11 @@ package Task::Tmp::spanel;
 
 =pkg Sub::Curry
 
+=pkg Sys::RunAlone
+
 =pkg Sys::RunAlone::Flexible
+
+=pkg Sys::RunAlone::Flexible2
 
 =pkg Tie::Handle::FileWriteRotate
 
