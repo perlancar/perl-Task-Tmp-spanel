@@ -60,6 +60,8 @@ package Task::Tmp::spanel;
 
 =pkg Digest::SHA1
 
+=pkg DNS::Zone::Struct::Common::BIND
+
 =pkg Error
 
 =pkg Exporter
