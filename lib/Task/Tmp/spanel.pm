@@ -16,6 +16,8 @@ package Task::Tmp::spanel;
 
 =pkg App::CreateSelfSignedSSLCert
 
+=pkg App::ProcUtils
+
 =pkg App::rimetadb
 
 =pkg CDB_File
